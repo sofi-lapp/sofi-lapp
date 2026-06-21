@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sofi-lapp
 - 👀 I’m interested in creating new and useful things 
-- 🌱 I’m currently learning Java and many more programs 
 
 
 <!---
